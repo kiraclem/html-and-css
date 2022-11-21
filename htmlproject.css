@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: bisque;
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+    font-family: fantasy
+}
+img {
+    height: 500px;
+    width: 1873px
+  
+}
+h2 {
+    color: brown;
+    text-align: center;
+    line-height: 70px;
+}
+h3 {
+    color:rgb(179, 110, 110);
+    text-align: center;
+    line-height: -20px;
+}
